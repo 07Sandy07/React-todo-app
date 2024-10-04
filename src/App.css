@@ -1,0 +1,23 @@
+
+
+input{
+  width: 100%;
+}
+
+button{
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.todo-container{
+  background-image: linear-gradient(to right, #032b3c, #31d3a8);
+  backdrop-filter: blur(10px); /* Percentage values are not valid for blur */
+  padding: 20px; /* Optional: Add padding to create some space inside the container */
+  border-radius: 8px; /* Optional: Rounded corners for a smoother look */
+  color: white; /* Optional: Text color for better contrast */
+}
+
+.row{
+  margin: 10px 5px;
+}
+  
